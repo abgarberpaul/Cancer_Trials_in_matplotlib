@@ -1,6 +1,8 @@
 # matplotlib-challenge
 Matplotlib challenge repo
 
-Instructions in #Readme file
+Problem outlined in #Readme file
 
-Solution code AND Analysis in pymaceuticals_final.ipynb
+Solution code AND analysis in pymaceuticals_final.ipynb
+
+Source data file in "data" folder
