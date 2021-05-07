@@ -1,11 +1,11 @@
-# MouseCancer
-##a matplotlib-challenge
+# Mouse Cancer
+## a matplotlib-challenge
 
 **Repo Directory:**
 - Solution code AND analysis in pymaceuticals_final.ipynb
 - Source data file in "data" folder
 
-##Observations on this sample dataset:
+## Observations on this sample dataset:
 
 #1. The data demonstrates that the studies looked at roughly simliar sample sizes,
 #and those sample sizes were distributed roughly evenly between male and female subjects. This
